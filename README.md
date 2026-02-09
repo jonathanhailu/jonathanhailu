@@ -24,10 +24,10 @@ Building robust, scalable applications with a focus on modularity and high-perfo
 
 ### 📊 Performance & Contributions
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanhailu&theme=dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanhailu&theme=dark&hide_border=true&layout=compact" width="38%" />
-</p>
+| My GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=jonathanhailu&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanhailu&theme=dark&hide_border=true&layout=compact) |
+
 
 ---
 
